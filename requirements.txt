@@ -1,0 +1,8 @@
+flask
+pdfminer.six
+spacy
+pandas
+nltk
+scikit-learn
+tensorflow
+numpy
